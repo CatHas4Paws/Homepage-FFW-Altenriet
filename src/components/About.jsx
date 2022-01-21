@@ -60,7 +60,7 @@ function About() {
                     <div class="col-lg-5">
                         <h1 class="font-weight-light">Mannschaftstransportwagen</h1>
                         <p>
-                            Hier k&ouml;nnte stehen welche Ausr/uuml;stung darauf ist.<br />
+                            Hier k&ouml;nnte stehen welche Ausr&uuml;stung darauf ist.<br />
                             Stromaggregat: XX kw<br />
                             etc.: XXXXXX<br />
                             <br />
