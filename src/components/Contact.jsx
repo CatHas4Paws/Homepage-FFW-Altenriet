@@ -7,7 +7,7 @@ function Contact() {
             <div class="container">
                 <h1 className="text-center mt-5">Kontakt</h1>
                 <div class="row align-items-center my-5">
-                    <div class="col-lg-7">
+                    <div class="col-lg-13">
                         <img class="img-fluid rounded mb-4 mb-lg-0" src={fireStation} alt="" />
                     </div>
                     <div class="col-lg-5">
