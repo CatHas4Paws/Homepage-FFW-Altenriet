@@ -6,7 +6,8 @@
     "\\src\\components",
     "\\src\\components\\blog",
     "\\src\\images",
-    "\\src\\images\\footer"
+    "\\src\\images\\blog"
   ],
+  "SelectedNode": "\\src\\components\\About.jsx",
   "PreviewInSolutionExplorer": false
 }
