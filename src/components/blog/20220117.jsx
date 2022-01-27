@@ -1,7 +1,7 @@
 import React from "react";
 
 import imgM20220117 from "../../images/blog/M20220117.jpg"
-import "./styles.css";
+import "../../views/styles.css";
 
 function M20220117() {
 

@@ -1,6 +1,6 @@
 import React from "react";
 import fireStation from "../images/contact/Feuerwehrmagazin.jpg"
-import "./styles.css"
+import "../views/styles.css";
 
 function Contact() {
     return (

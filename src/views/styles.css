@@ -1,0 +1,15 @@
+.photo {
+    width: 100%;
+}
+
+.nav-links {
+    /*display: inline-block;*/
+    /*height: 20px;*/
+    /*background-color: red; /*will change background-color of element */
+    color: white; /*will change color of text within the element */
+}
+
+    .nav-links:hover {
+        /*background-color: green; /*will change background-color of element on hover */
+        color: red; /*will change color of text within the element on hover */
+    }

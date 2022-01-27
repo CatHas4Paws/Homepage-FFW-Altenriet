@@ -5,9 +5,8 @@
     "\\src",
     "\\src\\components",
     "\\src\\components\\blog",
-    "\\src\\images",
-    "\\src\\images\\blog"
+    "\\src\\views"
   ],
-  "SelectedNode": "\\src\\components\\Contact.jsx",
+  "SelectedNode": "\\src\\components\\blog\\Blog.jsx",
   "PreviewInSolutionExplorer": false
 }
