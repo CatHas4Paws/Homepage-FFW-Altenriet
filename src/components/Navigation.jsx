@@ -13,23 +13,23 @@ function Navigation() {
                     <div>
                         <ul className="navbar-nav ml-auto">
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="/">
+                                <NavLink className="nav-links" to="/">
                                     Home
                                     <span className="sr-only">(current)</span>
                                 </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="/about">
+                                <NavLink className="nav-links" to="/about">
                                     &Uuml;ber Uns
                                 </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="/contact">
+                                <NavLink className="nav-links" to="/contact">
                                     Kontakt
                                 </NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="/blog">
+                                <NavLink className="nav-links" to="/blog">
                                     Eins&auml;tze
                                 </NavLink>
                             </li>

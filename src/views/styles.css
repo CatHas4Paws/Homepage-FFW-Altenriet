@@ -7,6 +7,7 @@
     /*height: 20px;*/
     /*background-color: red; /*will change background-color of element */
     color: white; /*will change color of text within the element */
+    margin: 10px;
 }
 
     .nav-links:hover {

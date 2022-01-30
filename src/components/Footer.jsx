@@ -26,9 +26,9 @@ function Footer() {
                         <Grid container style={{ textAlign: "right", flexDirection: "column",  width: "10%"}}>
                             <p class="m-0 text-center text-white">
                                 Folge uns auf:<br />
-                                <NavLink className="nav-links" to={"https://www.facebook.com/pages/category/Nonprofit-organization/Freiwillige-Feuerwehr-Altenriet-322739161735218/"} target="_blank" rel="noopener noreferrer">
+                                <a className="nav-links" href={"https://www.facebook.com/pages/category/Nonprofit-organization/Freiwillige-Feuerwehr-Altenriet-322739161735218/"} target="_blank" rel="noopener noreferrer">
                                     <img src={facebook} alt="" height="10%"/>Facebook
-                                </NavLink>
+                                </a>
                             </p>
                         </Grid>
                     </Grid>
