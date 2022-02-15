@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a292e9f4.css",
+    "main.js": "/static/js/main.00e0348e.js",
+    "static/media/M20220117.jpg": "/static/media/M20220117.1f436a6132d49c0efb66.jpg",
+    "static/media/MTW.jpg": "/static/media/MTW.f5e87b2b90f49d63dbf0.jpg",
+    "static/media/LF.jpg": "/static/media/LF.4b98ffd7583180b4f37e.jpg",
+    "static/media/Gruppe.jpg": "/static/media/Gruppe.9b674642f063e32b5806.jpg",
+    "static/media/Schlauchanhaenger.jpeg": "/static/media/Schlauchanhaenger.54886b5c421d79bc1c1f.jpeg",
+    "static/media/Feuerwehrmagazin.jpg": "/static/media/Feuerwehrmagazin.4dbe179e8e3bff2af838.jpg",
+    "static/media/Anhaenger.jpg": "/static/media/Anhaenger.bf23ab8fd8ce0fb0f33e.jpg",
+    "index.html": "/index.html",
+    "main.a292e9f4.css.map": "/static/css/main.a292e9f4.css.map",
+    "main.00e0348e.js.map": "/static/js/main.00e0348e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a292e9f4.css",
+    "static/js/main.00e0348e.js"
+  ]
+}

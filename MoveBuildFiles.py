@@ -25,17 +25,4 @@ def _move():
     print("\nfinished")
 
 
-if platform.system() == 'Linux':
-    if os.getlogin() == 'vpt' or os.getlogin() == 'pi':
-        os.chdir('/home/'+os.getlogin()+'/website/')
-        _move()
-    else:
-        print("Not defined user")
-
-elif platform.system() == 'Windows':
-    if os.getlogin() == 'MS-23':
-        os.chdir(r"C:\Users\MS-23\Documents\Feuerwehr\Homepage")
-        _move()
-else:
-    print("Something goes wrong.\nMaybe the false system with the false user.")
-    sys.exit()
+_move()
