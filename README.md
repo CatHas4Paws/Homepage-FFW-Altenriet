@@ -7,11 +7,11 @@ Um jedoch einfacher Beiträge über Einsätze und Veranstaltungen zu erstellen u
 
 Die aktuelle Homepage ist unter [https://feuerwehr-altenriet.de/](https://feuerwehr-altenriet.de/) erreichbar. 
 
+Screenshots des Entwurfes können unter [Screenshots](https://github.com/CatHas4Paws/Homepage-FFW-Altenriet/tree/main/Screenshots) angeschaut werden.
 
 Meinen Prototypen stelle ich deshalb hier frei zur Verfügung.
 Lediglich ist es Verboten den Namen der Feuerwehr zu verwenden.
 Außerdem sind die Lizenzen des verwendeten Bilder und Icons zu beachten!
-
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
